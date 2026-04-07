@@ -53,3 +53,9 @@ ansible-playbook -i inventory setup.yml
 ## ▶️ access the web serer
 
 http://<EC2_PUBLIC_IP>
+
+
+## 📄 Detailed Documentation
+
+A detailed step-by-step guide is available here:
+👉 [View Full Documentation (PDF)](docs/aws-ansible-lab.pdf)
