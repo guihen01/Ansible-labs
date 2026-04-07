@@ -1,0 +1,11 @@
+- hosts: web
+  become: yes
+
+  tasks:
+    - name: Install nginx via amazon-linux-extras
+      command: amazon-linux-extras install nginx1 -y
+
+    - name: Start nginx
+      service:
+        name: nginx
+        state: started
