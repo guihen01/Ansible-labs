@@ -12,6 +12,10 @@ devops-lab/
 ├── terraform/        # Infrastructure AWS (EC2, Security Group)
 └── ansible/          # Configuration serveur (Nginx)
 
+<p>
+  <img src="images/terraform-vpc-s3-modules.png" />
+</p>
+
 ________________________________________
 ⚙️ Technologies utilisées
 •	AWS EC2
