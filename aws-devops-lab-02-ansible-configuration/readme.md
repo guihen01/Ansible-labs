@@ -1,3 +1,4 @@
+DevOps Lab – Terraform + Ansible (AWS EC2 + Nginx)
 
 📌 Description
 Ce projet démontre la mise en place d’une chaîne d’automatisation complète en utilisant :
@@ -6,9 +7,11 @@ Ce projet démontre la mise en place d’une chaîne d’automatisation complèt
 L’objectif est de déployer automatiquement une instance EC2 sur AWS et d’y installer un serveur web Nginx affichant une page personnalisée.
 ________________________________________
 🧱 Architecture
+
 devops-lab/
 ├── terraform/        # Infrastructure AWS (EC2, Security Group)
 └── ansible/          # Configuration serveur (Nginx)
+
 ________________________________________
 ⚙️ Technologies utilisées
 •	AWS EC2
