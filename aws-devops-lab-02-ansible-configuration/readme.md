@@ -13,7 +13,7 @@ devops-lab/
 └── ansible/          # Configuration serveur (Nginx)
 
 <p>
-  <img src="Automated cloud architecture with Terraform.png" />
+  <img src="images/schemas-lab.png" />
 </p>
 
 ________________________________________
