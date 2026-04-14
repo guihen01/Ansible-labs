@@ -73,6 +73,7 @@ compose:
 ```bash
 ansible-inventory --graph
 ```
+![EC2 Instances](images/ansible-inventory.png)
 
 Expected output:
 
